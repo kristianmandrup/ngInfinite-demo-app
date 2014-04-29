@@ -30,3 +30,31 @@ body {
     line-height: 1;
     letter-spacing: -1px;
 }
+
+.demo-basic {
+  text-align: center;
+}
+
+.block-grid {
+  display: block;
+  overflow: hidden;
+  padding: 0;
+}
+
+.block-grid.four-up {
+  margin: 0 -10px;
+}
+
+.nice-row {
+  width: 1000px;
+  max-width: 100%;
+  min-width: 768px;
+  margin: 0 auto;
+}
+
+.nice-columns {
+  float: left;
+  min-height: 1px;
+  padding: 0 15px;
+  position: relative;
+}
