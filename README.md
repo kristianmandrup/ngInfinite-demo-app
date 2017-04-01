@@ -1,6 +1,8 @@
 ngInfinite-demo-app
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/ngInfinite-demo-app.svg)](https://greenkeeper.io/)
+
 This project is an Angular *ngInfiniteScroll* demo app. I am attempting to set up the [Basic demo](http://binarymuse.github.io/ngInfiniteScroll/demo_basic.html)
 with Angular-ui router and Karma E2E testing, while learning the basics of Angular development.
 
